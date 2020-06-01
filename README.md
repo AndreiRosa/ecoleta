@@ -1,6 +1,9 @@
+<h1>Ecoleta</h1>
+
 <p align="center">
-<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Fale comigo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
 
@@ -21,6 +24,6 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 
 <br>
 
-💬 Fale comigo
+## 💬 Contato
 ------------------
 Entre em contato comigo por meio do meu [*LinkedIn*](https://www.linkedin.com/in/andreifrosa).
