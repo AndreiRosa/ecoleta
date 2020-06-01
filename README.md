@@ -26,4 +26,4 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## 💬 Contato
 ------------------
-Entre em contato comigo por meio do meu [*LinkedIn*](https://www.linkedin.com/in/andreifrosa).
+Entre em contato comigo via [*LinkedIn*](https://www.linkedin.com/in/andreifrosa).
