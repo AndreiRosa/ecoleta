@@ -8,7 +8,7 @@
 
 
 ## 💻 Projeto
-Ecoleta é um projeto desenvolvido durante a primeira Next Level Week. Seu objetivo é ser uma plataforma na qual uma empresa cadastra seu ponto de coleta, e o usuário pode pesquisar pontos de coleta ao seu redor.
+Ecoleta é um projeto desenvolvido durante a primeira Next Level Week. Seu objetivo é ser uma plataforma na qual uma empresa cadastra seu ponto de coleta de resíduos, e o usuário pode pesquisar pontos de coleta ao seu redor.
 
 <br>
 
