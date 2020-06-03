@@ -1,4 +1,7 @@
-<h1>Ecoleta</h1>
+<h3 align="center">
+    <img width="300px" src="https://i.imgur.com/thB3TEi.png">
+    <br><br>
+</h3>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +11,10 @@
 
 
 ## 💻 Projeto
-Ecoleta é um projeto desenvolvido durante a primeira Next Level Week. Seu objetivo é ser uma plataforma na qual uma empresa cadastra seu ponto de coleta de resíduos, e o usuário pode pesquisar pontos de coleta ao seu redor.
+♻️ Ecoleta é um projeto desenvolvido durante a primeira Next Level Week. Seu objetivo é ser uma plataforma na qual uma empresa cadastra seu ponto de coleta de resíduos, e o usuário pode pesquisar pontos de coleta ao seu redor.
+<br>
+
+<img src="https://i.imgur.com/sqxLEbx.jpg">
 
 <br>
 
