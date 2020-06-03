@@ -21,6 +21,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - [React.js](https://reactjs.org)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
+- [Leaflet.js](https://leafletjs.com/)
 
 <br>
 
