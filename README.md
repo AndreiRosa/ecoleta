@@ -28,6 +28,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [Leaflet.js](https://leafletjs.com/)
+- [Celebrate](https://github.com/arb/celebrate)
 
 <br>
 
